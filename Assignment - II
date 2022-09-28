@@ -6,6 +6,11 @@ TEAM MEMBER : 917719D048- MERRYL MEKANA P
 TEAM MEMBER : 917719D020- DHEKSHAA E//
 
 
+QUESTION: 
+Build a python code, Assume u get temperature and humidity values (generated with random function to a variable) and write a condition to continuously detect alarm in case of high temperature.
+
+PROGRAM:
+
 import random
 while(True):
     temp=random.randrange(0,100)
